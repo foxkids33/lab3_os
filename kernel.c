@@ -14,7 +14,7 @@ unsigned int k_printf(char *message, unsigned int line);
 void k_main() 
 {
 	k_clear_screen();
-	k_printf("Hello, world! Welcome to my kernel.", 0);
+	k_printf("Hello JetBrains, CS242 Greeds you!!!)))))!!!!)!)!)!", 0);
 };
 
 /* k_clear_screen : to clear the entire text screen */
